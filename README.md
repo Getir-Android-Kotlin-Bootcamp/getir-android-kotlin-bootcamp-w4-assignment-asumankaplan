@@ -1,6 +1,6 @@
 # Hafta-4 Ödevi
 
-Bu proje, Getir Patika Android Bootcamp'in 4. haftasındaki ödev için yapılmıştır. 
+Bu proje, Getir Patika Android Bootcamp'in 4. haftasındaki ödev için yapılmıştır.
 
 ## Proje Açıklaması
 
